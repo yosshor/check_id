@@ -11,4 +11,4 @@ The ```check_id``` return True if the id number is proper, else the it display t
 ## how to run
 
     # no inputs
-    python check_id.py
+    python src/check_id.py
